@@ -24,7 +24,7 @@ const Tailwind = () => {
         </div>
         <button className='w-full h-10 rounded-xl bg-blue-800 rounded-lg border-solid '>Sign in</button>
         <div>
-            <p>Don’t have an account yet?   <a href="# " className='text-blue-600'>Sign up</a></p>
+            <p>Don’t have an account yet?   <a href="# " className='text-blue-600 text-center'>Sign up</a></p>
         </div>
       </div>
     </div>
